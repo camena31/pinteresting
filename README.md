@@ -26,3 +26,8 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+# One Month Rails
+
+This is the pinteresting sample application for [*One Month Rails*] (http://onemonthrails.com)
+
+by [Carla Mena]
