@@ -21,6 +21,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
 gem 'tzinfo-data'
 gem 'devise'
+gem 'paperclip'
 
 group :development, :test do 
  gem 'sqlite3'
